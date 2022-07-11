@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945658358574",
+    "project_id": "vont-oil-project",
+    "storage_bucket": "vont-oil-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945658358574:android:296ae43d1bbade2d9ca8bf",
+        "android_client_info": {
+          "package_name": "com.example.vont_oil_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945658358574-tviuedk6cm50i5nd0lipbsdm51qj19v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vont_oil_project",
+            "certificate_hash": "e641bd0c41e1f9d203fa8588fd2323042381d41c"
+          }
+        },
+        {
+          "client_id": "945658358574-pc7phpagt9qr64vlv5spsrvtgj64fk64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg4OI8DSuNjVsX524cfoqz6gQ4YNHIVa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945658358574-pc7phpagt9qr64vlv5spsrvtgj64fk64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
